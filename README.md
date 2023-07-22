@@ -1,4 +1,4 @@
 # branches
 Aprendendo sobre branches
 
-Atualizando Commit na branch main, depois do clone
+Atualizando Commit na branch main, antes do clone
